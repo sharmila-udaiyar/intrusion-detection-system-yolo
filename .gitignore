@@ -19,6 +19,7 @@ __pycache__/
 
 # OS files
 .DS_Store
+
 Thumbs.db
 
 # Large / unnecessary files
@@ -38,3 +39,6 @@ runs/
 
 # Temporary python file
 tempCodeRunnerFile.py
+
+Thumbs.db
+
