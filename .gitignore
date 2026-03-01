@@ -20,3 +20,21 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large / unnecessary files
+*.docx
+*.mp3
+*.whl
+*.ipynb
+
+# Temporary / output folders
+detected_images/
+test/
+train/
+runs/
+
+# VS Code
+.vscode/
+
+# Temporary python file
+tempCodeRunnerFile.py
